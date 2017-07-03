@@ -1,0 +1,112 @@
+{
+  "columns": {
+    "0": "SERVER AND SERVICE NAME",
+    "1": "Clarity Engine Service",
+    "2": "Middleware",
+    "3": "Metastore",
+    "4": "UI",
+    "5": "LENS"
+  },
+  "servers":
+    {
+      "0": {
+        "0": "bizops-rna-engg1005.bizops-rna.blr1.inmobi.com",
+        "1": "http://bizops-rna-engg1005.bizops-rna.blr1.inmobi.com:8050/clarity-query-engine/ping",
+        "2": "http://bizops-rna-engg1005.bizops-rna.blr1.inmobi.com:8050/clarity-query-engine/ping",
+
+        "4": "http://bizops-rna-engg1005.bizops-rna.blr1.inmobi.com:8050/clarity-query-engine/pingsda"
+      },
+      "1": {
+        "0": "bizops-rna-engg1004.common.blr1.inmobi.com",
+        "1": "http://bizops-rna-engg1004.common.blr1.inmobi.com:8040/clarity-query-engine/ping",
+        "2": "http://bizops-rna-engg1004.common.blr1.inmobi.com:8040/clarity-query-engine/ping",
+        "3": "",
+        "4": "",
+        "5": "http://bizops-rna-engg1004.common.blr1.inmobi.com:8040/clarity-query-engine/ping"
+      },
+      "2": {
+        "0": "bizops-rna-engg1006.common.blr1.inmobi.com",
+        "1": "",
+        "2": "http://bizops-rna-engg1004.common.blr1.inmobi.com:8040/clarity-query-engine/ping",
+        "3": "",
+        "4": "",
+        "5": "http://bizops-rna-engg1004.common.blr1.inmobi.com:8040/clarity-query-engine/ping"
+      },
+      "3": {
+        "0": "bizops-rna-engg1006.common.blr1.inmobi.com",
+        "1": "",
+        "2": "http://bizops-rna-engg1004.common.blr1.inmobi.com:8040/clarity-query-engine/ping",
+        "3": "",
+        "4": "",
+        "5": "http://bizops-rna-engg1004.common.blr1.inmobi.com:8040/clarity-query-engine/ping"
+      },
+      "4": {
+        "0": "bizops-rna-engg1005.bizops-rna.blr1.inmobi.com",
+        "1": "http://bizops-rna-engg1005.bizops-rna.blr1.inmobi.com:8050/clarity-query-engine/ping",
+        "2": "http://bizops-rna-engg1005.bizops-rna.blr1.inmobi.com:8050/clarity-query-engine/ping",
+        "3": "http://bizops-rna-engg1005.bizops-rna.blr1.inmobi.com:8050/clarity-query-engine/ping",
+        "4": "http://bizops-rna-engg1005.bizops-rna.blr1.inmobi.com:8050/clarity-query-engine/pingsda",
+        "5": "http://"
+      },
+      "5": {
+        "0": "bizops-rna-engg1005.bizops-rna.blr1.inmobi.com",
+        "1": "http://bizops-rna-engg1005.bizops-rna.blr1.inmobi.com:8050/clarity-query-engine/ping",
+        "2": "http://bizops-rna-engg1005.bizops-rna.blr1.inmobi.com:8050/clarity-query-engine/ping",
+        "3": "http://bizops-rna-engg1005.bizops-rna.blr1.inmobi.com:8050/clarity-query-engine/ping",
+        "4": "http://bizops-rna-engg1005.bizops-rna.blr1.inmobi.com:8050/clarity-query-engine/pingsda",
+        "5": "http://"
+      },
+      "6": {
+        "0": "bizops-rna-engg1005.bizops-rna.blr1.inmobi.com",
+        "1": "http://bizops-rna-engg1005.bizops-rna.blr1.inmobi.com:8050/clarity-query-engine/ping",
+        "2": "http://bizops-rna-engg1005.bizops-rna.blr1.inmobi.com:8050/clarity-query-engine/ping",
+        "3": "http://bizops-rna-engg1005.bizops-rna.blr1.inmobi.com:8050/clarity-query-engine/ping",
+        "4": "http://bizops-rna-engg1005.bizops-rna.blr1.inmobi.com:8050/clarity-query-engine/pingsda",
+        "5": "http://"
+      },
+      "7": {
+        "0": "bizops-rna-engg1005.bizops-rna.blr1.inmobi.com",
+        "1": "http://bizops-rna-engg1005.bizops-rna.blr1.inmobi.com:8050/clarity-query-engine/ping",
+        "2": "http://bizops-rna-engg1005.bizops-rna.blr1.inmobi.com:8050/clarity-query-engine/ping",
+        "3": "http://bizops-rna-engg1005.bizops-rna.blr1.inmobi.com:8050/clarity-query-engine/ping",
+        "4": "http://bizops-rna-engg1005.bizops-rna.blr1.inmobi.com:8050/clarity-query-engine/pingsda",
+        "5": "http://"
+      },
+      "8": {
+        "0": "bizops-rna-engg1005.bizops-rna.blr1.inmobi.com",
+        "1": "http://bizops-rna-engg1005.bizops-rna.blr1.inmobi.com:8050/clarity-query-engine/ping",
+        "2": "http://bizops-rna-engg1005.bizops-rna.blr1.inmobi.com:8050/clarity-query-engine/ping",
+        "3": "http://bizops-rna-engg1005.bizops-rna.blr1.inmobi.com:8050/clarity-query-engine/ping",
+        "4": "http://bizops-rna-engg1005.bizops-rna.blr1.inmobi.com:8050/clarity-query-engine/pingsda",
+        "5": "http://"
+      },
+      "9": {
+        "0": "bizops-rna-engg1005.bizops-rna.blr1.inmobi.com",
+        "1": "http://bizops-rna-engg1005.bizops-rna.blr1.inmobi.com:8050/clarity-query-engine/ping",
+        "2": "http://bizops-rna-engg1005.bizops-rna.blr1.inmobi.com:8050/clarity-query-engine/ping",
+        "3": "http://bizops-rna-engg1005.bizops-rna.blr1.inmobi.com:8050/clarity-query-engine/ping",
+        "4": "http://bizops-rna-engg1005.bizops-rna.blr1.inmobi.com:8050/clarity-query-engine/pingsda",
+        "5": "http://"
+      },
+      "10": {
+        "0": "bizops-rna-engg1005.bizops-rna.blr1.inmobi.com",
+        "1": "http://bizops-rna-engg1005.bizops-rna.blr1.inmobi.com:8050/clarity-query-engine/ping",
+        "2": "http://bizops-rna-engg1005.bizops-rna.blr1.inmobi.com:8050/clarity-query-engine/ping",
+        "3": "http://bizops-rna-engg1005.bizops-rna.blr1.inmobi.com:8050/clarity-query-engine/ping",
+        "4": "http://bizops-rna-engg1005.bizops-rna.blr1.inmobi.com:8050/clarity-query-engine/pingsda",
+        "5": "http://"
+      },
+      "11": {
+        "0": "bizops-rna-engg1005.bizops-rna.blr1.inmobi.com",
+        "1": "http://bizops-rna-engg1005.bizops-rna.blr1.inmobi.com:8050/clarity-query-engine/ping",
+        "2": "http://bizops-rna-engg1005.bizops-rna.blr1.inmobi.com:8050/clarity-query-engine/ping",
+        "3": "http://bizops-rna-engg1005.bizops-rna.blr1.inmobi.com:8050/clarity-query-engine/ping",
+        "4": "http://bizops-rna-engg1005.bizops-rna.blr1.inmobi.com:8050/clarity-query-engine/pingsda",
+        "5": "http://"
+      }
+    }
+
+}
+
+
+
